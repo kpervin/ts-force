@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/ChuckJonas/ts-force/issues"
   },
-  "homepage": "https://github.com/ChuckJonas/ts-force#readme"
+  "homepage": "https://github.com/ChuckJonas/ts-force#readme",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
 }
